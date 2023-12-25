@@ -1,4 +1,4 @@
-class SinhVien constructor(maSV:String,ten:String){
+class SinhVien (maSV:String,ten:String){
 
 init {
     println("Đây là hàm contructor chính")
