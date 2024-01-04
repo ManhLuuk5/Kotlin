@@ -30,4 +30,9 @@ class SupostMethod {
             println("B tuổi gì Next to menu")
     }
 
+    fun DTB(diemToan:Float, diemVan:Float):Float
+    {
+        return (diemToan+diemVan) /2
+    }
+
 }

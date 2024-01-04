@@ -45,6 +45,27 @@ class LopSV2 {
     }
 
 
+    fun XuatThongTin()
+    {
+        println(" Tên sinh viên là: $ten")
+    }
 
 
-}
+
+        private var ageValue: Int = 0
+        fun setAge(): Int {
+            return ageValue
+        }
+        fun setAge(age: Int) {
+            ageValue = age
+        }
+    }
+
+
+
+
+
+
+
+
+
