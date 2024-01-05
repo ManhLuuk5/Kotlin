@@ -3,4 +3,10 @@ init {
     println("Đây là hàm contructor chính")
     println("$maSV- $ten")
 }
+
+
+
+
+
+
 }
